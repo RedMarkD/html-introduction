@@ -1,2 +1,41 @@
-#title{ color: #505C91;
+body{
+    background-color: #DED0A7;
+    text-align: center;
+
+}
+img {width: "250px";
+    background: black;
+    margin: "20px";
+    padding: 1px;
+    align-self: auto;
+}
+p { color: #91855E;
+    font-family: "Franklin Gothic Medium", serif;
+    font-size: 15px;
+}
+h1 { align-self: center;
+    font-family: "Franklin Gothic Medium",serif;
+    font-size: 38pt;
+}
+
+h2{ color: #505C91;
+    font-family: "Franklin Gothic Medium",serif;
+    font-size: 28pt;
+
+}
+p {color: #91855E;
+    font-family: "Franklin Gothic Medium",serif;
+    font-size: 15pt;
+}
+
+table { color: #91855E;
+    }
+
+ul{ color: #91855E;
+
+
+}
+
+#special {
+    color: #505C91;
 }
